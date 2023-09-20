@@ -1,7 +1,7 @@
 # Blockchains
 
-Tedcrypto created a sub-system for each lotto on the different blockchains the lotto runs on. This is to give a better
-experience to everyone participating whilst securing the lotto health system.
+TedCrypto has taken significant steps to ensure the robustness of our systems. We've introduced dedicated sub-systems for each lotto operating on various blockchains. This strategic move is designed to provide a seamless and secure environment for all participants, ensuring the health and reliability of our lotto systems.
+To ensure transparency and clarity, we invite you to check the details below about ticket costs, and minimum prize amounts. 
 
 ### Agoric ($BLD)
 
