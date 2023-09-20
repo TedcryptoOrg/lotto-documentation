@@ -30,7 +30,7 @@ experience to everyone participating whilst securing the lotto health system.
 | Wallet                                | [bitsong1k652lq822mnvu9furfmmq3wsmufvvyg9pzljrq](https://www.mintscan.io/bitsong/account/bitsong1k652lq822mnvu9furfmmq3wsmufvvyg9pzljrq) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                    |
 | Ticket Stake (min stake for a ticket) | 500 $BTSG                                                                                                                           |
-| Minimum prize                         | 35 $BTSG                                                                                                                            |
+| Minimum prize                         | 30 $BTSG                                                                                                                            |
 | Portal                                | [https://lotto.tedcrypto.io/bitsong](https://lotto.tedcrypto.io/bitsong)                                                           |
 
 ### Chihuahua ($HUAHUA)
@@ -40,7 +40,7 @@ experience to everyone participating whilst securing the lotto health system.
 | Wallet                                | [chihuahua14emkz33hgduymcd7eq5e6xdqz830s4wzykn6kv](https://www.mintscan.io/chihuahua/account/chihuahua14emkz33hgduymcd7eq5e6xdqz830s4wzykn6kv) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                   |                                                                                                               |
 | Ticket Stake (min stake for a ticket) | 200K $HUAHUA                                                                                                                      |
-| Minimum prize                         | 5K $HUAHUA                                                                                                                        |
+| Minimum prize                         | 4K $HUAHUA                                                                                                                        |
 | Portal                                | [https://lotto.tedcrypto.io/chihuahua](https://lotto.tedcrypto.io/chihuahua)                                                      |
 
 ### Comdex ($CMDX)
@@ -53,10 +53,6 @@ experience to everyone participating whilst securing the lotto health system.
 | Minimum prize                         | 5 $CMDX                                                                                                                           |
 | Portal                                | [https://lotto.tedcrypto.io/comdex](https://lotto.tedcrypto.io/comdex)                                                            |
 
-#### Notes
-
-For the first draw we will duplicate all tickets, that means that every 100 $CMDX you stake you will get 2 tickets.
-
 ### Crypto.com ($CRO)
 
 | Setting Name                          | Value                                                                                                                               |
@@ -67,7 +63,6 @@ For the first draw we will duplicate all tickets, that means that every 100 $CMD
 | Minimum prize                         | 10 $CRO                                                                                                                             |
 | Portal                                | [https://lotto.tedcrypto.io/cryptoorgchain](https://lotto.tedcrypto.io/cryptoorgchain)                                              |
 
-
 ### Evmos ($EVMOS)
 
 | Setting Name                          | Value                                                                                                                          |
@@ -75,7 +70,7 @@ For the first draw we will duplicate all tickets, that means that every 100 $CMD
 | Wallet                                | [evmos1qddkl46m82ltd4r8nlhk88w9pshy9l9hs7lpzy](https://mintscan.io/evmos/account/evmos1qddkl46m82ltd4r8nlhk88w9pshy9l9hs7lpzy) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                |
 | Ticket Stake (min stake for a ticket) | 20 $EVMOS                                                                                                                      |
-| Minimum prize                         | 3 $EVMOs                                                                                                                |
+| Minimum prize                         | 5 $EVMOS                                                                                                                |
 | Portal                                | [https://lotto.tedcrypto.io/evmos](https://lotto.tedcrypto.io/evmos)                                                           |
 
 ### Juno ($JUNO)
@@ -95,7 +90,7 @@ For the first draw we will duplicate all tickets, that means that every 100 $CMD
 | Wallet                                | [mars1e7f0pv2glp5mslqze5cnv4vrwv52rtmltqfrax](https://www.mintscan.io/mars-protocol/accounts/mars1e7f0pv2glp5mslqze5cnv4vrwv52rtmltqfrax) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                 |
 | Ticket Stake (min stake for a ticket) | 20 $MARS                                                                                                                        |
-| Minimum prize                         | 1.5 $MARS                                                                                                                |
+| Minimum prize                         | 2 $MARS                                                                                                                         |
 | Portal                                | [https://lotto.tedcrypto.io/mars](https://lotto.tedcrypto.io/mars)                                                              |
 
 ### Migaloo ($WHALE)
@@ -105,7 +100,7 @@ For the first draw we will duplicate all tickets, that means that every 100 $CMD
 | Wallet                                | [migaloo1r37anntu9wgk06jeycatp2npmytqugq54tkwju](https://migaloo.explorers.guru/account/migaloo1r37anntu9wgk06jeycatp2npmytqugq54tkwju) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                 |
 | Ticket Stake (min stake for a ticket) | 1K $WHALE                                                                                                                        |
-| Minimum prize                         | 1.5 $WHALE                                                                                                                |
+| Minimum prize                         | 30 $WHALE                                                                                                                |
 | Portal                                | [https://lotto.tedcrypto.io/migaloo](https://lotto.tedcrypto.io/migaloo)          
 
 ### Osmosis ($OSMO)
@@ -125,8 +120,8 @@ For the first draw we will duplicate all tickets, that means that every 100 $CMD
 | Wallet                                | [rebus1pnh324ugq34ntvdp7fn83vy3gzs2j20msgp2yp](https://rebus.explorers.guru/account/rebus1pnh324ugq34ntvdp7fn83vy3gzs2j20msgp2yp) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                   |
 | Ticket Stake (min stake for a ticket) | 200 $REBUS                                                                                                                        |
-| Minimum prize                         | 1 $SCRT                                                                                                                               |
-| Lotto link                            | [https://lotto.tedcrypto.io/rebus](https://lotto.tedcrypto.io/rebus)                                                  |
+| Minimum prize                         | 10 $REBUS                                                                                                                          |
+| Lotto link                            | [https://lotto.tedcrypto.io/rebus](https://lotto.tedcrypto.io/rebus)                                                              |
 
 ### Sentinel ($DVPN)
 
@@ -145,7 +140,7 @@ For the first draw we will duplicate all tickets, that means that every 100 $CMD
 | Wallet                                | [stride10r5dxa0awwkkk5r9kc3v577yjgmwdrcp2myzu9](https://www.mintscan.io/stride/account/stride10r5dxa0awwkkk5r9kc3v577yjgmwdrcp2myzu9) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                    |
 | Ticket Stake (min stake for a ticket) | 6.1 $STRD                                                                                                                          |
-| Minimum prize                         | 0.5 $STRD                                                                                                                          |
+| Minimum prize                         | 0.3 $STRD                                                                                                                          |
 | Portal                                | [https://lotto.tedcrypto.io/stride](https://lotto.tedcrypto.io/stride)                                                             |
 
 ### Teritori ($TORI)
@@ -155,7 +150,7 @@ For the first draw we will duplicate all tickets, that means that every 100 $CMD
 | Wallet                                | [tori1drgucz0twd0thvdkdd9gm9wf7rtarayqlktz34](https://atomscan.com/teritori/accounts/tori1drgucz0twd0thvdkdd9gm9wf7rtarayqlktz34) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                   |
 | Ticket Stake (min stake for a ticket) | 100 $TORI                                                                                                                         |
-| Minimum prize                         | 50 $TORI                                                                                                                          |
+| Minimum prize                         | 10 $TORI                                                                                                                          |
 | Portal                                | [https://lotto.tedcrypto.io/teritori](https://lotto.tedcrypto.io/teritori)                                                        |
 
 
