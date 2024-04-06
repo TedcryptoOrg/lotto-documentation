@@ -60,7 +60,7 @@ To ensure transparency and clarity, we invite you to check the details below abo
 | Wallet                                | [evmos1qddkl46m82ltd4r8nlhk88w9pshy9l9hs7lpzy](https://mintscan.io/evmos/account/evmos1qddkl46m82ltd4r8nlhk88w9pshy9l9hs7lpzy) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                |
 | Ticket Stake (min stake for a ticket) | 600 $EVMOS                                                                                                                      |
-| Minimum prize                         | 3 $EVMOS                                                                                                                |
+| Minimum prize                         | 0.1 $EVMOS                                                                                                                |
 | Portal                                | [https://lotto.tedcrypto.io/evmos](https://lotto.tedcrypto.io/evmos)                                                           |
 
 ### Jackal ($JKL)
@@ -70,7 +70,7 @@ To ensure transparency and clarity, we invite you to check the details below abo
 | Wallet                                | [jkl12vkf07cf5ecd908ggmevx40xkxpyumaj0she5t](https://ping.pub/jackal/account/jkl12vkf07cf5ecd908ggmevx40xkxpyumaj0she5t) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                   |
 | Ticket Stake (min stake for a ticket) | 60 $JKL                                                                                                                         |
-| Minimum prize                         | 3 $JKL                                                                                                                          |
+| Minimum prize                         | 1 $JKL                                                                                                                          |
 | Portal                                | [https://lotto.tedcrypto.io/jackal](https://lotto.tedcrypto.io/jackal)                                                        |
 
 ### Juno ($JUNO)
@@ -110,7 +110,7 @@ To ensure transparency and clarity, we invite you to check the details below abo
 | Wallet                                | [migaloo1r37anntu9wgk06jeycatp2npmytqugq54tkwju](https://migaloo.explorers.guru/account/migaloo1r37anntu9wgk06jeycatp2npmytqugq54tkwju) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                 |
 | Ticket Stake (min stake for a ticket) | 650 $WHALE                                                                                                                        |
-| Minimum prize                         | 30 $WHALE                                                                                                                |
+| Minimum prize                         | 20 $WHALE                                                                                                                |
 | Portal                                | [https://lotto.tedcrypto.io/migaloo](https://lotto.tedcrypto.io/migaloo)          
 
 ### Osmosis ($OSMO)
@@ -120,7 +120,7 @@ To ensure transparency and clarity, we invite you to check the details below abo
 | Wallet                                | [osmo1xk23a255qm4kn6gdezr6jm7zmupn23t3mh63ya](https://www.mintscan.io/osmosis/accounts/osmo1xk23a255qm4kn6gdezr6jm7zmupn23t3mh63ya) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                    |
 | Ticket Stake (min stake for a ticket) | 40 $OSMO                                                                                                                           |
-| Minimum prize                         | 4 $OSMO                                                                                                                     |
+| Minimum prize                         | 0.4 $OSMO                                                                                                                     |
 | Portal                                | [https://lotto.tedcrypto.io/osmosis](https://lotto.tedcrypto.io/osmosis)                                                           |
 
 ### Planq ($PLQ)
@@ -159,8 +159,8 @@ To ensure transparency and clarity, we invite you to check the details below abo
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | Wallet                                | [tori1drgucz0twd0thvdkdd9gm9wf7rtarayqlktz34](https://atomscan.com/teritori/accounts/tori1drgucz0twd0thvdkdd9gm9wf7rtarayqlktz34) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                   |
-| Ticket Stake (min stake for a ticket) | 700 $TORI                                                                                                                         |
-| Minimum prize                         | 10 $TORI                                                                                                                          |
+| Ticket Stake (min stake for a ticket) | 1000 $TORI                                                                                                                         |
+| Minimum prize                         | 5 $TORI                                                                                                                          |
 | Portal                                | [https://lotto.tedcrypto.io/teritori](https://lotto.tedcrypto.io/teritori)                                                        |
 
 
