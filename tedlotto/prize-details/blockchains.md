@@ -80,7 +80,7 @@ To ensure transparency and clarity, we invite you to check the details below abo
 | Wallet                                | [juno1nsnhn0y0vsjq8j70z6yfxp2xk4rsjrzmn04g4h](https://www.mintscan.io/juno/account/juno1nsnhn0y0vsjq8j70z6yfxp2xk4rsjrzmn04g4h) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                 |
 | Ticket Stake (min stake for a ticket) | 70 $JUNO                                                                                                                         |
-| Minimum prize                         | 10 $JUNO                                                                                                                |
+| Minimum prize                         | 1 $JUNO                                                                                                                |
 | Portal                                | [https://lotto.tedcrypto.io/juno](https://lotto.tedcrypto.io/juno)                                                              |
 
 ### Kujira ($KUJI)
