@@ -3,16 +3,6 @@
 TedCrypto has taken significant steps to ensure the robustness of our systems. We've introduced dedicated sub-systems for each lotto operating on various blockchains. This strategic move is designed to provide a seamless and secure environment for all participants, ensuring the health and reliability of our lotto systems.
 To ensure transparency and clarity, we invite you to check the details below about ticket costs, and minimum prize amounts. 
 
-### Agoric ($BLD)
-
-| Setting name                          | Value                                                                                                                             |
-|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| Wallet                                | [agoric18rtdxqmy5ewevyvpk9gylu3v6zxz4c6tjc8ru4](https://bigdipper.live/agoric/accounts/agoric18rtdxqmy5ewevyvpk9gylu3v6zxz4c6tjc8ru4) |
-| Validator(s)                          | Stake2Earn                                                                                                                         |
-| Ticket Stake (min stake for a ticket) | 35 $BLD                                                                                                                            |
-| Minimum prize                         | 1.5 $BLD                                                                                                                           |
-| Portal                                | [https://lotto.tedcrypto.io/agoric](https://lotto.tedcrypto.io/agoric)                                                             |
-
 ### Akash ($AKT)
 
 | Setting name                          | Value                                                                                                                              |
@@ -59,7 +49,7 @@ To ensure transparency and clarity, we invite you to check the details below abo
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | Wallet                                | [cro1suef2nl54zdu5tv0mh522g5j0nu0legvzz34v9](https://www.mintscan.io/crypto-org/account/cro1suef2nl54zdu5tv0mh522g5j0nu0legvzz34v9) |
 | Validator(s)                          | CROnqueror                                                                                                                          |
-| Ticket Stake (min stake for a ticket) | 200 $CRO                                                                                                                            |
+| Ticket Stake (min stake for a ticket) | 400 $CRO                                                                                                                            |
 | Minimum prize                         | 10 $CRO                                                                                                                             |
 | Portal                                | [https://lotto.tedcrypto.io/cryptoorgchain](https://lotto.tedcrypto.io/cryptoorgchain)                                              |
 
@@ -69,8 +59,8 @@ To ensure transparency and clarity, we invite you to check the details below abo
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | Wallet                                | [evmos1qddkl46m82ltd4r8nlhk88w9pshy9l9hs7lpzy](https://mintscan.io/evmos/account/evmos1qddkl46m82ltd4r8nlhk88w9pshy9l9hs7lpzy) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                |
-| Ticket Stake (min stake for a ticket) | 350 $EVMOS                                                                                                                      |
-| Minimum prize                         | 3 $EVMOS                                                                                                                |
+| Ticket Stake (min stake for a ticket) | 600 $EVMOS                                                                                                                      |
+| Minimum prize                         | 0.1 $EVMOS                                                                                                                |
 | Portal                                | [https://lotto.tedcrypto.io/evmos](https://lotto.tedcrypto.io/evmos)                                                           |
 
 ### Jackal ($JKL)
@@ -80,7 +70,7 @@ To ensure transparency and clarity, we invite you to check the details below abo
 | Wallet                                | [jkl12vkf07cf5ecd908ggmevx40xkxpyumaj0she5t](https://ping.pub/jackal/account/jkl12vkf07cf5ecd908ggmevx40xkxpyumaj0she5t) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                   |
 | Ticket Stake (min stake for a ticket) | 60 $JKL                                                                                                                         |
-| Minimum prize                         | 3 $JKL                                                                                                                          |
+| Minimum prize                         | 1 $JKL                                                                                                                          |
 | Portal                                | [https://lotto.tedcrypto.io/jackal](https://lotto.tedcrypto.io/jackal)                                                        |
 
 ### Juno ($JUNO)
@@ -99,7 +89,7 @@ To ensure transparency and clarity, we invite you to check the details below abo
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | Wallet                                | [kujira1mmlfcz47x2rgryac97w0mnkm8mgueewmqn3dz4](https://finder.kujira.network/kaiyo-1/address/kujira1mmlfcz47x2rgryac97w0mnkm8mgueewmqn3dz4) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                   |
-| Ticket Stake (min stake for a ticket) | 20 $KUJI                                                                                                                         |
+| Ticket Stake (min stake for a ticket) | 30 $KUJI                                                                                                                         |
 | Minimum prize                         | 0.2 $KUJI                                                                                                                          |
 | Portal                                | [https://lotto.tedcrypto.io/kujira](https://lotto.tedcrypto.io/kujira)                                                        |
 
@@ -120,7 +110,7 @@ To ensure transparency and clarity, we invite you to check the details below abo
 | Wallet                                | [migaloo1r37anntu9wgk06jeycatp2npmytqugq54tkwju](https://migaloo.explorers.guru/account/migaloo1r37anntu9wgk06jeycatp2npmytqugq54tkwju) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                 |
 | Ticket Stake (min stake for a ticket) | 650 $WHALE                                                                                                                        |
-| Minimum prize                         | 30 $WHALE                                                                                                                |
+| Minimum prize                         | 20 $WHALE                                                                                                                |
 | Portal                                | [https://lotto.tedcrypto.io/migaloo](https://lotto.tedcrypto.io/migaloo)          
 
 ### Osmosis ($OSMO)
@@ -130,7 +120,7 @@ To ensure transparency and clarity, we invite you to check the details below abo
 | Wallet                                | [osmo1xk23a255qm4kn6gdezr6jm7zmupn23t3mh63ya](https://www.mintscan.io/osmosis/accounts/osmo1xk23a255qm4kn6gdezr6jm7zmupn23t3mh63ya) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                    |
 | Ticket Stake (min stake for a ticket) | 40 $OSMO                                                                                                                           |
-| Minimum prize                         | 4 $OSMO                                                                                                                     |
+| Minimum prize                         | 0.4 $OSMO                                                                                                                     |
 | Portal                                | [https://lotto.tedcrypto.io/osmosis](https://lotto.tedcrypto.io/osmosis)                                                           |
 
 ### Planq ($PLQ)
@@ -143,23 +133,13 @@ To ensure transparency and clarity, we invite you to check the details below abo
 | Minimum prize                         | 10 $PLQ                                                                                                                          |
 | Portal                                | [https://lotto.tedcrypto.io/planq](https://lotto.tedcrypto.io/planq)                                                        |
 
-### Rebus ($REBUS)
-
-| Setting name                          | Value                                                                                                                             |
-|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| Wallet                                | [rebus1pnh324ugq34ntvdp7fn83vy3gzs2j20msgp2yp](https://rebus.explorers.guru/account/rebus1pnh324ugq34ntvdp7fn83vy3gzs2j20msgp2yp) |
-| Validator(s)                          | Tedcrypto.io 🧸                                                                                                                   |
-| Ticket Stake (min stake for a ticket) | 200 $REBUS                                                                                                                        |
-| Minimum prize                         | 10 $REBUS                                                                                                                          |
-| Lotto link                            | [https://lotto.tedcrypto.io/rebus](https://lotto.tedcrypto.io/rebus)                                                              |
-
 ### Sentinel ($DVPN)
 
 | Setting name                          | Value                                                                                                                               |
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | Wallet                                | [sent1x30p56va00rerc8qcydenmy3xwt72mawm9cydx](https://www.mintscan.io/sentinel/account/sent1x30p56va00rerc8qcydenmy3xwt72mawm9cydx) |
 | Validator(s)                          | ChronoBit                                                                                                                          |
-| Ticket Stake (min stake for a ticket) | 10K $DVPN                                                                                                                           |
+| Ticket Stake (min stake for a ticket) | 20K $DVPN                                                                                                                           |
 | Minimum prize                         | 1K $DVPN                                                                                                                            |
 | Lotto link                            | [https://lotto.tedcrypto.io/sentinel](https://lotto.tedcrypto.io/sentinel)                                                          |
 
@@ -179,8 +159,8 @@ To ensure transparency and clarity, we invite you to check the details below abo
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | Wallet                                | [tori1drgucz0twd0thvdkdd9gm9wf7rtarayqlktz34](https://atomscan.com/teritori/accounts/tori1drgucz0twd0thvdkdd9gm9wf7rtarayqlktz34) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                   |
-| Ticket Stake (min stake for a ticket) | 700 $TORI                                                                                                                         |
-| Minimum prize                         | 10 $TORI                                                                                                                          |
+| Ticket Stake (min stake for a ticket) | 1000 $TORI                                                                                                                         |
+| Minimum prize                         | 5 $TORI                                                                                                                          |
 | Portal                                | [https://lotto.tedcrypto.io/teritori](https://lotto.tedcrypto.io/teritori)                                                        |
 
 
